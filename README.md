@@ -1,9 +1,3 @@
-## Tech Stack
-- ![Python](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkBKGzgKHQA42GTo40DCQUnNVkUWd3FMzFJA&s)
-- ![Numpy](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgWpP1RPGLLVlsxRPUBy3qqiyeAVoay_Ezag&s)
-- ![Pandas](https://images.decodo.com/Python_Pandas_1_cc44acf7dc/Python_Pandas_1_cc44acf7dc.png)
-- ![Matplotlib](https://img.icons8.com/color/512w/matplotlib.png)
-- ![Seaborn](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9RvwdND-gIQa5bkwtaoQ_4xce3pA6JLrvZQ&s)
+<p align="left"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkBKGzgKHQA42GTo40DCQUnNVkUWd3FMzFJA&s" width="32" alt="Python"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgWpP1RPGLLVlsxRPUBy3qqiyeAVoay_Ezag&s" width="32" alt="NumPy"/> <img src="https://images.decodo.com/Python_Pandas_1_cc44acf7dc/Python_Pandas_1_cc44acf7dc.png" width="32" alt="Pandas"/> <img src="https://img.icons8.com/color/512w/matplotlib.png" width="32" alt="Matplotlib"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9RvwdND-gIQa5bkwtaoQ_4xce3pA6JLrvZQ&s" width="32" alt="Seaborn"/> </p>
 
-## Environment
-- ![Jupyter Notebook](https://raw.githubusercontent.com/jithurjacob/vscode-nbpreviewer/master/images/jupyter.png)
+<p align="left"> <img src="https://raw.githubusercontent.com/jithurjacob/vscode-nbpreviewer/master/images/jupyter.png" width="32" alt="Jupyter Notebook"/> </p>
